@@ -1,1 +1,3 @@
 This course is your gateway to mastering LangChain Apps and AI with a clear emphasis on driving revenue. It will teach you how to create real-world, revenue-focused solutions, including AI-driven chatbots, data analytics automation, and personal financial assistance on the latest market news. What sets this course apart is the commitment to ensuring that what you learn translates directly into revenue impact for both personal and business contexts. No dummy projects or mere fun exercises here - our mission is to equip you with tangible skills that deliver real results.
+
+Please refer to this google doc for specific information on curriculum: https://docs.google.com/document/d/1t-ayylMTFEe8SydrpGU51E2K7FEUXojqooRN34HMXOc/edit
